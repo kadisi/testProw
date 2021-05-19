@@ -1,0 +1,10 @@
+approvers:
+    - kadisi 
+    - rambohe
+
+reviewers:
+    - kadisi 
+    - rambohe
+    - zyjhtangtang  
+labels:
+  - openyurt/storage
